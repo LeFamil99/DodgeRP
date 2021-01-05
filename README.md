@@ -26,7 +26,7 @@
 ```
 - 1/5/2021 [01:44 PM] version Alpha 0.4 :
 ```
-- Added Time
+- Added Timer
 - Added Startmenu
 - Added Countdown
 ```
