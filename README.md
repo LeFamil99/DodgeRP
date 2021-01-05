@@ -7,3 +7,7 @@
 # logUpdate
 - 1/4/2021 [7:30 PM] version Alpha 0.2 :
 game upload
+- 1/4/2021 [10;33 PM] version Alpha 0.3 :
+Spirte changes : sword, character, ground
+r button to restart
+Added boundaries
