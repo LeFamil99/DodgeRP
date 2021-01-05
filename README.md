@@ -4,6 +4,7 @@
 - Jeu programmé par Dimitri M., Louis-Félix B. et Maxime G.
 - Sprite visualisé et réalisé par Maxime L.
 - List de contribueur:
+ (soon)
 # logUpdate
 - 1/4/2021 [7:30 PM] version Alpha 0.2 :
 game upload
