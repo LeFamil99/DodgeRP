@@ -1,5 +1,5 @@
 # DodgeRP
-###                                                                [CLICK POUR JOUER](https://lesgrailleurs.github.io/DodgeRP/)
+###                                                                [CLICK TO PLAY](https://lesgrailleurs.github.io/DodgeRP/)
 ###                                                                 [ALTERNATIVE LINK](https://lesgrailleurs.github.io/DodgeRP/index.html)
 - Jeu programmé par Dimitri M., Louis-Félix B. et Maxime G.
 - Sprite visualisé et réalisé par Maxime L.
