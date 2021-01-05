@@ -42,7 +42,7 @@
  ```
 - 1/4/2021 [10:56 PM] version Alpha 0.3.1 :
 ```
- - Error with the background hiding the sprites fixed
+ - (FIXED) Error with the background hiding the sprites
 ```
 - 1/5/2021 [01:44 PM] version Alpha 0.4 :
 ```
