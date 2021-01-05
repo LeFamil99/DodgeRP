@@ -29,4 +29,5 @@
 - Added Timer
 - Added Startmenu
 - Added Countdown
+- Added Play Button and Game Title
 ```
