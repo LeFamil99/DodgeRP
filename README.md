@@ -12,3 +12,4 @@ game upload
  Spirte changes : sword, character, ground
  && Added r button to restart
  && Added boundaries
+ && Changed fiveicon
