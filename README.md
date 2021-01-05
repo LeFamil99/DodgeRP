@@ -18,7 +18,10 @@
  
    Julien Boisvert
  
- 
+   
+   Éloïse L. Bernard
+   
+   
 # logUpdate
 - 1/4/2021 [7:30 PM] version Alpha 0.2 :
 ```
@@ -28,14 +31,14 @@
  ```
 - 1/4/2021 [10:46 PM] version Alpha 0.3 :
 ```
- - Sprite changes : sword, character (now made by us), ground (template)
- - Added 'R' button to restart
+ - Spirte changes : sword, character (now made by us), ground (template)
+ - Added r button to restart
  - Added boundaries
  - Changed favicon
  ```
 - 1/4/2021 [10:56 PM] version Alpha 0.3.1 :
 ```
- - (FIXED) Error with the background hiding the sprites
+ - Error with the background hiding the sprites fixed
 ```
 - 1/5/2021 [01:44 PM] version Alpha 0.4 :
 ```
