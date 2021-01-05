@@ -1,4 +1,6 @@
 # DodgeRP
+### POUR JOUER : [https://lesgrailleurs.github.io/DodgeRP/]
+### Alt.Link : [https://lesgrailleurs.github.io/DodgeRP/index.html]
 - Jeu programmé par Maxime G. et Dimitri M.
 - Sprite visualisé et réalisé par Maxime L.
 - List de contribueur:
