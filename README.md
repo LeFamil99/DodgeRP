@@ -31,3 +31,7 @@
 - Added Countdown
 - Added Play Button and Game Title
 ```
+- 1/5/2021 [01:53 PM] version Alpha 0.4.1 :
+```
+- Game had a problem with Ram which made it unnable to play
+```
