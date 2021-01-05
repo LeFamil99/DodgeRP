@@ -11,11 +11,11 @@
  - Added Sword
  - Added Damage
  - Added colisions with projectiles
-game upload
- - 1/4/2021 [10:46 PM] version Alpha 0.3 :
+- 1/4/2021 [10:46 PM] version Alpha 0.3 :
  - Spirte changes : sword, character (now made by us), ground (template)
  - && Added r button to restart
  - && Added boundaries
  - && Changed fiveicon
+ game upload
 - 1/4/2021 [10:56 PM] version Alpha 0.3.1 :
  -Error with the background hiding the sprites fixed
