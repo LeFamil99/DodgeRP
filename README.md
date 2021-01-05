@@ -5,7 +5,12 @@
 - Sprites and visuals made by Maxime Laurence
 - (SOON) Music by Antoine Boucher
 - List of testers :
- ###### Hugo Fortin
+```
+ - Hugo Fortin
+ - Gabriel jaillet
+ - Jérémie Trudel
+ - Julien Boisvert
+ ```
 # logUpdate
 - 1/4/2021 [7:30 PM] version Alpha 0.2 :
 ```
