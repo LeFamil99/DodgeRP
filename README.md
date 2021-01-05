@@ -7,16 +7,16 @@
 - List of testers :
 
 
- - Hugo Fortin
+   Hugo Fortin
  
  
- - Gabriel jaillet
+   Gabriel jaillet
  
  
- - Jérémie Trudel
+   Jérémie Trudel
  
  
- - Julien Boisvert
+   Julien Boisvert
  
  
 # logUpdate
