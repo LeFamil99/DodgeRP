@@ -33,5 +33,9 @@
 ```
 - 1/5/2021 [01:53 PM] version Alpha 0.4.1 :
 ```
-- Game had a problem with Ram which made it unplayable
+- (Tentative to fix) Game had a Ram problem which made it unplayable
+```
+- 1/5/2021 [02:15 PM] version Alpha 0.4.1 :
+```
+- (FIXED) Game had a Ram problem which made it unplayable
 ```
