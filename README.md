@@ -59,8 +59,9 @@
 - 1/5/2021 [15:24 PM] version Alpha 0.5 :
 ```
 - Added Revive Button
-- Added Go after countdown
+- Added Go! after countdown
 - Added Scaling Difficulty
 - Changed Main Character sprite
 - Added Health Bar
+- Added Countdown everytime you revive
 ```
