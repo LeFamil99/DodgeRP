@@ -24,3 +24,9 @@
 ```
  - Error with the background hiding the sprites fixed
 ```
+-1/5/2021 [01:44 PM] version Alpha 0.4 :
+```
+- Added Time
+- Added Startmenu
+- Added Countdown
+```
