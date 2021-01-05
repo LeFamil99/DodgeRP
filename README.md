@@ -64,4 +64,5 @@
 - Changed Main Character sprite
 - Added Health Bar
 - Added Countdown everytime you revive
+- Changed size of Play button
 ```
