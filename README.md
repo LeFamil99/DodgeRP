@@ -19,7 +19,6 @@
  - Added r button to restart
  - Added boundaries
  - Changed favicon
- game upload
  ```
 - 1/4/2021 [10:56 PM] version Alpha 0.3.1 :
 ```
