@@ -4,7 +4,7 @@
 - Game programmed by Dimitri Mansour and Maxime Gaudraux
 - Sprites and visuals made by Maxime Laurence
 - (SOON) Music by Antoine Boucher
-- with the small help of Louis-Felix Berthiaume
+- With the small help of Louis-Felix Berthiaume
 - List of testers :
 
 
