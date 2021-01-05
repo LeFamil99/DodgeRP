@@ -22,5 +22,5 @@
  ```
 - 1/4/2021 [10:56 PM] version Alpha 0.3.1 :
 ```
- -Error with the background hiding the sprites fixed
+ - Error with the background hiding the sprites fixed
 ```
