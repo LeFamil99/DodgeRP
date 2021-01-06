@@ -51,11 +51,11 @@
 - Added Countdown
 - Added Play Button and Game Title
 ```
-- 1/5/2021 [01:53 PM] version Alpha 0.4.1 :
+- 1/5/2021 [01:53 AM] version Alpha 0.4.1 :
 ```
 - (Tentative to fix) Game had a Ram problem which made it unplayable
 ```
-- 1/5/2021 [02:15 PM] version Alpha 0.4.2 :
+- 1/5/2021 [02:15 AM] version Alpha 0.4.2 :
 ```
 - (FIXED) Game had a Ram problem which made it unplayable
 ```
