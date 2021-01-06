@@ -1,7 +1,7 @@
 # DodgeRP
 ###                                                                [CLICK TO PLAY](https://lesgrailleurs.github.io/DodgeRP/index.html)
 ###                                                                 [ALTERNATIVE LINK](https://lesgrailleurs.github.io/DodgeRP/index.html)
-- Game programmed by Dimitri Mansour and Maxime Gaudreau
+- Game programmed by Maxime Gaudreau and Dimitri Mansour
 - Sprites and visuals made by Maxime Laurence
 - (SOON) Music by Antoine Boucher
 - With the very very small help of Louis-Felix Berthiaume
