@@ -66,7 +66,7 @@
 - Changed Main Character sprite
 - Changed size of Play button
 ```
-- 1/5/2021 [23:00 PM] version Alpha 0.6 :
+- 1/5/2021 [23:40 PM] version Alpha 0.6 :
 ```
 - Added Highscore
 - Added Gamemode selection (Easy, Normal, Hard)
