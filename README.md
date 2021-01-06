@@ -9,7 +9,7 @@
 
    Hugo Fortin
  
-   Gabriel jaillet
+   Gabriel Jaillet
  
    Jérémie Trudel
  
@@ -70,4 +70,8 @@
 - Changed size of Character
 - Changed size of Swords
 - Updated sprite for Swords and Character
+```
+- 1/6/2021 [12:04 AM] version Alpha 0.6.1 :
+```
+- Fixed problem where the character was in front of the HP sprite
 ```
