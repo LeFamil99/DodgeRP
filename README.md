@@ -23,9 +23,6 @@
    Éloïse L. Bernard
    
    
-   Antoine Boucher (OP)
-   
-   
 # logUpdate
 - 1/4/2021 [7:30 PM] version Alpha 0.2 :
 ```
@@ -35,7 +32,7 @@
  ```
 - 1/4/2021 [10:46 PM] version Alpha 0.3 :
 ```
- - Spirte changes : sword, character (now made by us), ground (template)
+ - Updated Spirte changes : sword, character (now made by us), ground (template)
  - Added r button to restart
  - Added boundaries
  - Changed favicon
@@ -64,8 +61,18 @@
 - Added Revive Button
 - Added Go! after countdown
 - Added Scaling Difficulty
-- Changed Main Character sprite
-- Added Health Bar
 - Added Countdown everytime you revive
+- Added Health Bar
+- Changed Main Character sprite
 - Changed size of Play button
+```
+- 1/5/2021 [23:00 PM] version Alpha 0.6 :
+```
+- Added Highscore
+- Added Gamemode selection (Easy, Normal, Hard)
+- Added Character sprite for every directions
+- Changed size of Healthbar
+- Changed size of Character
+- Changed size of Swords
+- Updated sprite for Swords and Character
 ```
