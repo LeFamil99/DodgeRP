@@ -71,6 +71,7 @@
 - Added Highscore
 - Added Gamemode selection (Easy, Normal, Hard)
 - Added Character sprite for every directions
+- Added Dead Character sprite
 - Changed size of Healthbar
 - Changed size of Character
 - Changed size of Swords
