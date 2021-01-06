@@ -7,20 +7,13 @@
 - With the small help of Louis-Felix Berthiaume
 - List of testers :
 
-
    Hugo Fortin
- 
  
    Gabriel jaillet
  
- 
    Jérémie Trudel
  
- 
    Julien Boisvert
- 
-   
-   Éloïse L. Bernard
    
    
 # logUpdate
