@@ -75,3 +75,11 @@
 ```
 - Fixed problem where the character was in front of the HP sprite
 ```
+- 1/6/2021 [11:20 PM] version Alpha 0.7 :
+```
+- Added Hidden Gamemode :
+   New Background
+   Harder diffuculty
+- Added Credits
+- Made Small Qol changes to direction animation
+```
