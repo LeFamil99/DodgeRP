@@ -69,7 +69,7 @@
 ```
 - 1/6/2021 [12:04 AM] version Alpha 0.6.1 :
 ```
-- (Fixed) Problem where the character was in front of the HP sprite
+- (FIXED) Problem where the character was in front of the HP sprite
 ```
 - 1/7/2021 [12:05 PM] version Alpha 0.7 :
 ```
@@ -92,5 +92,5 @@
 ```
 - 1/7/2021 [01:14 AM] version Alpha 0.7.3 :
 ```
-- Fixed problem where sprites where appearing in the wrong mode
+- (FIXED) Problem where sprites where appearing in the wrong mode
 ```
