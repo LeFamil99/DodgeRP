@@ -81,5 +81,6 @@
    New Background
    Harder diffuculty
 - Added Credits
+- Added Blinking effect when hit 
 - Made Small Qol changes to direction animation
 ```
