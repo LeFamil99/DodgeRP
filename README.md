@@ -88,3 +88,7 @@
 ```
 - Added Developper Tool
 ```
+- 1/7/2021 [12:54 AM] version Alpha 0.7.2 :
+```
+- Added sprites in secret mode
+```
