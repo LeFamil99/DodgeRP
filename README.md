@@ -75,7 +75,7 @@
 ```
 - Fixed problem where the character was in front of the HP sprite
 ```
-- 1/6/2021 [11:32 PM] version Alpha 0.7 :
+- 1/7/2021 [12:05 PM] version Alpha 0.7 :
 ```
 - Added Hidden Gamemode :
    New Background
