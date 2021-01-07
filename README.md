@@ -83,12 +83,10 @@
 - Added Credits
 - Added Blinking effect when hit 
 - Made Small Qol changes to direction animation
+- Reorganized Buttons
+- Added the ability to esc during counter
 ```
 - 1/7/2021 [12:38 AM] version Alpha 0.7.1 :
 ```
 - Added Developper Tool
-```
-- 1/7/2021 [12:54 AM] version Alpha 0.7.2 :
-```
-- Added sprites in secret mode
 ```
