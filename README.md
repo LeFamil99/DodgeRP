@@ -94,3 +94,7 @@
 ```
 - Changes some sprites in the secret mode
 ```
+- 1/7/2021 [01:09 AM] version Alpha 0.7.3 :
+```
+- Fixed a bug where some sprites where appearing in the wrong mode 
+```
