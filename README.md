@@ -12,8 +12,6 @@
    Jérémie Trudel
  
    Julien Boisvert
-   
-   Gabriel Jaillet
 
 - Big thanks to Stavo
 
