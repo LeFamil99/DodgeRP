@@ -73,7 +73,7 @@
 ```
 - 1/6/2021 [12:04 AM] version Alpha 0.6.1 :
 ```
-- Fixed problem where the character was in front of the HP sprite
+- (Fixed) Problem where the character was in front of the HP sprite
 ```
 - 1/7/2021 [12:05 PM] version Alpha 0.7 :
 ```
@@ -83,4 +83,8 @@
 - Added Credits
 - Added Blinking effect when hit 
 - Made Small Qol changes to direction animation
+```
+- 1/7/2021 [12:38 AM] version Alpha 0.7.1 :
+```
+- (Fixed) Bug where the secret mode is impossible to unlock
 ```
