@@ -92,5 +92,5 @@
 ```
 - 1/7/2021 [01:14 AM] version Alpha 0.7.3 :
 ```
-- (FIXED) Problem where sprites where appearing in the wrong mode
+- (FIXED) Problem where sprites were appearing in the wrong mode
 ```
