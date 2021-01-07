@@ -13,8 +13,6 @@
  
    Julien Boisvert
 
-- Big thanks to Stavo
-
 # logUpdate
 - 1/4/2021 [7:30 PM] version Alpha 0.2 :
 ```
