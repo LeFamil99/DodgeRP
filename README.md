@@ -97,6 +97,6 @@
 - 1/7/2021 [20:53 PM] version Alpha 0.8 :
 ```
 - Added Animations to the character 
-- Added Animations for the buttons 
+- Added Animations to the buttons 
 - Added a Settings wheel for when it will be needed
 ```
