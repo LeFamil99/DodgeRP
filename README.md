@@ -6,6 +6,8 @@
 - (SOON) Music by Antoine Boucher
 - With the very very very small help of Louis-Felix Berthiaume
 - List of testers :
+   
+   Gabriel Jaillet
 
    Hugo Fortin
  
