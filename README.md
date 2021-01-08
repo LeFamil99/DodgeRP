@@ -94,3 +94,9 @@
 ```
 - (FIXED) Problem where sprites were appearing in the wrong mode
 ```
+- 1/7/2021 [20:53 PM] version Alpha 0.8 :
+```
+- Added Animations to the character 
+- Added Animations for the buttons 
+- Added a Settings wheel for when it will be needed
+```
