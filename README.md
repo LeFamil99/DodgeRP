@@ -3,7 +3,7 @@
 ###                                                                 [ALTERNATIVE LINK](https://lesgrailleurs.github.io/DodgeRP/index.html)
 - Game programmed by Maxime Gaudreau and Dimitri Mansour
 - Sprites and visuals made by Maxime Laurence
-- (SOON) Music by Antoine Boucher
+- Music by Antoine Boucher
 - With the very very very small help of Louis-Felix Berthiaume
 - List of testers :
    
